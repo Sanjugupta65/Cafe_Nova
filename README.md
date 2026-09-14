@@ -5,6 +5,14 @@ A modern and elegant café website built with **React.js**, designed to showcase
 
 The project focuses on creating a visually appealing café experience with **animations, page navigation, responsive design, and CSS-based interactions**.
 
+
+##  🖥️ Preview
+
+![Project Preview](./public/Preview%20Demo.png)
+
+
+
+
 ## ✨ Features
 
 * ☕ Modern café-inspired UI
@@ -145,6 +153,12 @@ Some features that can be added in the future:
 **Sanju**
 
 Built with ☕ and code.
+
+---
+
+## 🌐 Live Demo
+
+[View Live Demo](https://cafe-nova-final.vercel.app/)
 
 ---
 

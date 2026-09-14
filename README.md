@@ -114,19 +114,6 @@ npm run dev
 
 The application will start on the local development server provided by Vite.
 
-## 📦 Build for Production
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-To preview the production build:
-
-```bash
-npm run preview
-```
 
 ## 🌟 What I Learned
 
